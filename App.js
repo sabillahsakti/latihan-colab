@@ -8,7 +8,7 @@ const styles = StyleSheet.create({
   bg: { flex:1, paddingTop: 150, alignItems: 'center', backgroundColor: '#fff' },
   teks: { fontSize: 25, color: '#4d3398', fontWeight: 'bold', textAlign: 'center'},
   button: {
-    width: 150,
+    width: 10,
     height: 50,
     alignItems: 'center',
     paddingTop: 10,
